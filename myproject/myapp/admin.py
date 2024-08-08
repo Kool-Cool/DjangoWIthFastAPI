@@ -5,4 +5,3 @@ from .models import User
 
 myModels = [User]
 admin.site.register(myModels)
-
